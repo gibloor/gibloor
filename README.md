@@ -25,13 +25,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)](https://github.com/gibloor/MultHospital)
 
   <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)]
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)
 
-    [![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gibloor&theme=default)](https://github.com/gibloor/MultHospital)
+  [![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gibloor&theme=default)](https://github.com/gibloor/MultHospital)
 
-    [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gibloor&theme=default)](https://github.com/gibloor/MultHospital)
+  [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gibloor&theme=default)](https://github.com/gibloor/MultHospital)
   </div>
 
 </div>
