@@ -21,7 +21,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gibloor&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)]
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)
 </div>
