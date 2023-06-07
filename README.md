@@ -20,11 +20,19 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gibloor&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)](https://github.com/gibloor/MultHospital)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)](https://github.com/gibloor/MultHospital)
+
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor)]
+
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibloor&layout=compact&theme=vision-friendly-dark)
+
+    [![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gibloor&theme=default)](https://github.com/gibloor/MultHospital)
+
+    [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gibloor&theme=default)](https://github.com/gibloor/MultHospital)
+  </div>
 
 </div>
 
